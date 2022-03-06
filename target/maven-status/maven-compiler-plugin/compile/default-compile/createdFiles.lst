@@ -1,0 +1,4 @@
+com/frankmoley/lil/fid/Application.class
+com/frankmoley/lil/fid/service/OutputService.class
+com/frankmoley/lil/fid/service/GreetingService.class
+com/frankmoley/lil/fid/service/TimeService.class
